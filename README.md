@@ -1,3 +1,4 @@
+# Github and git conflict
 # CSC4110-assignment1
 <h2>Assignment 1</h2>
 <h3>Darpan Shah</h3>
